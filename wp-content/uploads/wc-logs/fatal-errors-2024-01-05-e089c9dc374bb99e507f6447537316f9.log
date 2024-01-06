@@ -1,0 +1,10 @@
+2024-01-05T08:02:03+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\elementor\modules\page-templates\module.php на строке 13
+
+2024-01-05T10:48:39+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\elementor\core\upgrade\manager.php на строке 6
+
+2024-01-05T10:48:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\MiniCartCartButtonBlock.php на строке 15
+
+2024-01-05T10:49:00+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\woocommerce\includes\customizer\class-wc-customizer-control-cropping.php на строке 11
+
+2024-01-05T22:37:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\themes\astra\inc\builder\markup\class-astra-builder-header.php на строке 9
+

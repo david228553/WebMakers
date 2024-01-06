@@ -1,0 +1,8 @@
+2024-01-06T14:23:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\wpforms-lite\src\Integrations\DefaultThemes\DefaultThemes.php на строке 12
+
+2024-01-06T14:48:32+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in W:\domains\wordpress\wp-includes\pomo\mo.php on line 320
+
+2024-01-06T14:48:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Payments\Integrations\AbstractPaymentMethodType.php на строке 11
+
+2024-01-06T14:48:40+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-includes\functions.php на строке 6805
+

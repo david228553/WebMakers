@@ -1,0 +1,6 @@
+2024-01-03T21:24:56+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-includes\functions.php на строке 4593
+
+2024-01-03T21:24:59+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutOrderSummaryCartItemsBlock.php на строке 15
+
+2024-01-03T21:25:06+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\elementor\includes\controls\gallery.php на строке 6
+

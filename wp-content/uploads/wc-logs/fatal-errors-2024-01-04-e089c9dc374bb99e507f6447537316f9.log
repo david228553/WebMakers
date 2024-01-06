@@ -1,0 +1,8 @@
+2024-01-04T08:29:11+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\elementor\core\common\modules\connect\module.php на строке 13
+
+2024-01-04T18:25:10+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-content\plugins\elementor\core\base\document.php на строке 22
+
+2024-01-04T18:25:21+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-includes\functions.php на строке 6805
+
+2024-01-04T18:25:22+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в W:\domains\wordpress\wp-includes\functions.php на строке 6805
+
